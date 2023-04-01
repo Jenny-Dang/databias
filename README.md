@@ -1,1 +1,4 @@
-# databias
+# Data Bias 
+My hypothesis was to investigate whether the Perspective API demonstrates gender bias. To test this, I used gendered parental nouns like 'mom/mother/mommy' and 'dad/father/daddy' in various social media phrases. I replaced the noun with the opposite gendered noun and tested several variations of both. While the results were subtle, the male pronouns consistently received less toxicity scores. This pattern suggests a bias against women that may stem from the deeply patriarchal societies still prevalent in many countries. It is not surprising given the frequency of misogynistic humor and attitudes on social media.
+
+The Perspective API's machine learning algorithm draws from the data collected from the raters it hired. It is reasonable to conclude that this bias developed due to the raters' bias. This situation highlights the importance of ensuring fairness in machine learning algorithms and screening test subjects, such as the raters, for biases before using them as data points in a larger project with societal implications.
